@@ -1,6 +1,6 @@
 ### Hi, I'm Liza 👋 👩‍💻
 
-![Screen Shot 2021-04-22 at 9 33 35 PM](https://user-images.githubusercontent.com/68169418/115809836-72c5bd80-a3b2-11eb-8785-26077d9629d3.png)
+<img align="right" ![Screen Shot 2021-04-22 at 9 33 35 PM](https://user-images.githubusercontent.com/68169418/115809836-72c5bd80-a3b2-11eb-8785-26077d9629d3.png) />
 
 ## About me:
 After four years of teaching English abroad in Colombia and Spain, I got my masters in Curriculum and Instruction at UW-Madison with certifications in Secondary English and English as a Second Language. I then spent a year teaching, managing, and advising international students at Wisconsin English as Second Language Institute. When the pandemic hit, I started exploring new career paths, and I fell in love with coding. Currently, I am becoming a Full Stack Web Developer at Lambda School. 
