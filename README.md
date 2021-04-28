@@ -34,4 +34,5 @@ You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][2.2]][2].
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>
 
+## Stats:å
 ![Liza's github stats](https://github-readme-stats.vercel.app/api?username=lizapincsak&show_icons=true&theme=radical)
