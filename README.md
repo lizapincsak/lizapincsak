@@ -1,5 +1,4 @@
 ### Hi, I'm Liza 👋 👩‍💻
----
 
 ![Screen Shot 2021-04-22 at 9 33 35 PM](https://user-images.githubusercontent.com/68169418/115809836-72c5bd80-a3b2-11eb-8785-26077d9629d3.png) 
 
@@ -9,16 +8,16 @@ I'm a former ESL Teacher turned web developer. I'm becoming a Full Stack Web Dev
 - 🤓 I’m currently learning Python & CS
 - 😄 Pronouns: she/her
 - ✨ Fun fact: If I am not programming, I am likely 🥾 hiking, 📚 reading, or ✍️ working on my blog.
----
 
 ## Languages & Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
----
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 ## ✍️ Blog & Writing: 
 I enjoy writing about my experiences becoming a web developer. You can find my articles on my website at [lizapincsak.com](https://lizapincsak.com) as well as on [Medium](https://lizapincsak.medium.com).
----
 
 ## Connect with Me:
 You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][2.2]][2].
