@@ -11,7 +11,7 @@ I'm a former ESL Teacher turned web developer. I'm becoming a Full Stack Web Dev
 I enjoy writing about my experiences becoming a web developer. You can find my articles on my website at [lizapincsak.com](https://lizapincsak.com) as well as on [Medium](https://lizapincsak.medium.com).
 
 <p>
-  <img width="50% align="right" src="https://github-readme-stats.vercel.app/api?username=lizapincsak&show_icons=true&theme=radica />
+  <img width="50% align="right" src="https://github-readme-stats.vercel.app/api?username=lizapincsak&show_icons=true&theme=radical />
   ## Connect with Me:
   You can find me on [![Twitter][1.2]][1] or  [![LinkedIn][2.2]][2].
 
