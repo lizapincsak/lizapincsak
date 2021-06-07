@@ -1,11 +1,10 @@
 ### Hi, I'm Liza 👋 👩‍💻
 
 ![Screen Shot 2021-04-22 at 9 33 35 PM](https://user-images.githubusercontent.com/68169418/115809836-72c5bd80-a3b2-11eb-8785-26077d9629d3.png) 
-
 ## About me:
 I'm a former ESL Teacher turned web developer. I'm becoming a Full Stack Web Developer at 🦙 Lambda School. 
 - 🎒 I’m currently completing a course on Udemy: React - The Complete Guide by Maximilian Schwarzmüller
-- 🤓 I’m currently learning Python & CS
+- 🤓 I’m creating a book tracker app
 - 😄 Pronouns: she/her
 - ✨ Fun fact: If I am not programming, I am likely 🥾 hiking, 📚 reading, or ✍️ working on my blog.
 
